@@ -1,6 +1,29 @@
-# GitSearch
+# Github Profile Search
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
+## Author
+
+Joseph Odhiambo
+
+## Description
+
+This is a web application that enables users to search their github profiles by username. They can also view their repositories.
+
+## Technologies
+
+- HTML5
+- Css3
+- Typescript
+- Angular 8
+
+## Behavior Driven Development
+
+1. Search Github profile.
+2. View profile.
+3. View repositories
+
+## Contact
+
+- josephkdo@Gmail.com
 
 ## Development server
 
@@ -25,3 +48,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Licence
+
+- [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)

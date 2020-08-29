@@ -1,0 +1,12 @@
+.landing {
+    background-color: rgba(100, 72, 20, 0.767);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-blend-mode: color;
+    background-image: url('https://i.ytimg.com/vi/T6o3Ci8Ieag/maxresdefault.jpg');
+}
+.shadow-hover:hover {
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+  }

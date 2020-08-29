@@ -1,0 +1,24 @@
+::-webkit-input-placeholder {
+    font-style: italic;
+    font-size: 15px;
+}
+.allrepo {
+    background-image: url('https://miro.medium.com/max/700/1*mtsk3fQ_BRemFidhkel3dA.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(100, 72, 20, 0.767);
+    background-blend-mode: color;
+    display: flex;
+}
+.username {
+    background-image: url('https://static1.srcdn.com/wordpress/wp-content/uploads/2020/04/GitHub-logo-what-is.jpg?q=50&fit=crop&w=960&h=500');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(241, 171, 40, 0.623);
+    background-blend-mode: color;
+}
+ul li {
+    background-color: rgba(224, 212, 189, 0.616);
+}
