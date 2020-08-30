@@ -1,6 +1,7 @@
 import { Injectable } from "@angular/core";
 import { HttpClient } from "@angular/common/http";
 import "rxjs";
+import { environment } from 'src/environments/environment';
 
 @Injectable({
   providedIn: "root"
@@ -8,7 +9,7 @@ import "rxjs";
 export class GithubService {
   private username = "Joseph-Odhiambo";
   private client_id = "610d1f9d354fe2b25366";
-  private client_secret = "2f2a6017f17da2eb0a51fae44f94e89e162e965e";
+  private client_secret = environment.apiKey;
 
   constructor(private http: HttpClient) {
     console.log("Github service started");
